@@ -81,6 +81,7 @@ It can also communicate with server-side.
 <script>
     let increment = 10;
     increment++;
+    
     console.log(increment);
 </script>
 ```
@@ -91,6 +92,7 @@ It can also communicate with server-side.
 <script>
     let decrement = 10;
     decrement--;
+    
     console.log(decrement);
 </script>
 ```
