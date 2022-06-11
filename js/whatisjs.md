@@ -1,5 +1,5 @@
 
-# JavaScript Learning
+# JavaScript
 
 **JavaScript** is a programming language that can manipulate HTML document dynamically.  
 It can also communicate with server-side.
