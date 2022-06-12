@@ -1,5 +1,5 @@
 # <table> Element
-
+    
 ## Simple HTML Table
 ```html
 <body>
