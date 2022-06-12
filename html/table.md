@@ -1,9 +1,19 @@
-# <table> Element
-    
+# `<table>` Element
+| Element | Usage       | Detail |
+| ------- | ----------- | ------ |
+| tr      | table row   | - |
+| th      | table cell head | `th`'s content align center and text-bold |
+| td      | table cell data | `td`'s content align left/start |
+| thead   | table head  | `thead` defines its content will be table header role |
+| tbody   | table body  | `tbody` defines its content will be table body role |
+| tfooter   | table footer  | `tfooter` defines its content will be table footer role | 
+| caption   | table caption  | - | 
+
 ## Simple HTML Table
 ```html
 <body>
     <table border="1px" cellspacing="0">
+        <caption>Student List</caption>
         <tr>
             <th>Name</th>
             <th>Country</th>
@@ -26,6 +36,7 @@
 ### Output
 <body>
     <table border="1px" cellspacing="0">
+        <caption>Student List</caption>
         <tr>
             <th>Name</th>
             <th>Country</th>
