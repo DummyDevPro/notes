@@ -19,7 +19,7 @@ We normally used HTML Form for website's registration, login, sign up, and so on
 - [`<input>`](#input-type)
 - [`<label>`](#label-element)
 - [`<select> <option>`](#dropdown-selection)
-- `<textarea>`
+- [`<textarea>`](#textarea-element)
 - etc.
 
 ### Input Type
@@ -118,6 +118,16 @@ If you'd like to change default selection add **selected** attribute on option.
             <option>Myanmar</option>
         </select>
         
+    </form>
+</body>
+```
+
+### TextArea Element
+```html
+<body>
+    <form>
+        <p>Write something</p>
+        <textarea name="comment" rows="10" cols="60" placeholder="e.g. My hobby is driving."></textarea>
     </form>
 </body>
 ```
