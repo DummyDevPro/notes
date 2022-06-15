@@ -5,15 +5,17 @@ It can also communicate with server-side.
 
 ## JS Arithmetic Operation
 
-| Operator  | Description |
-| ------------- | ------------- |
-| +  | [Addition](#addition)  |
-| -  | [Subtraction](#subtraction)  |
-| *  | [Multiplication](#multiplication)  |
-| /  | [Division](#division)  |
-| %  | [Modulus (Division Remainder)](#modulus-division-remainder)  |
-| ++  | [Add one (Increment one)](#add-one-increment-one)  |
-| --  | [Subtraction one (Decrement one)](#subtraction-one-decrement-one)  |
+**Arithmetic Operation** = 算術演算子（Sanjutsu enzanshi）
+
+| Operator  | Description | Japanese Term | (Yomi) Romaji |
+| ------------- | ------------- | ---------- | ---------- |
+| +  | [Addition](#addition)  | 足し算（add：加算/加法）| Tashizan (add: Kasan/ kahō) |
+| -  | [Subtraction](#subtraction)  | 引き算（subtract：減算/減法）| Hikizan (subtract: Genzan/ genpō) |
+| *  | [Multiplication](#multiplication)  | 掛け算（multiply：乗算/乗法）| Kakezan (multiply: Jōzan/ jōhō) |
+| /  | [Division](#division)  | 割り算（divide：除算/除法）| Warizan (divide: Josan/ johō) |
+| %  | [Modulus (Division Remainder)](#modulus-division-remainder)  | 割り算した余り（剰余演算子）| Warizan shita amari (jōyoenzanshi) |
+| ++  | [Add one (Increment one)](#add-one-increment-one)  | インクリメント演算子 | - |
+| --  | [Subtraction one (Decrement one)](#subtraction-one-decrement-one)  | デクリメント演算子 | - |
 
 ### Addition
 
