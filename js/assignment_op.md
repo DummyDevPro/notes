@@ -3,7 +3,7 @@
 **JavaScript** is a programming language that can manipulate HTML document dynamically.  
 It can also communicate with server-side.
 
-## JS Assignment Operations
+## JS Assignment Operators
 
 | Type | Description  |
 | ---- | -----------  |
