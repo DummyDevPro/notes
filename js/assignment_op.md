@@ -6,7 +6,7 @@ It can also communicate with server-side.
 ## JS Assignment Operators
 
 | Operator | Description  |
-| ---- | -----------  |
+| :----: | :-----------:  |
 |  =   | Equal Assign |
 
 ### Example
@@ -18,7 +18,7 @@ Assign value `10` to variable `x`.
 ```
 
 | Operator | Description  |
-| ---- | -----------  |
+| :----: | :-----------:  |
 |  +=  | **right-side value** makes addition to **left-side variable** and the result re-asigns to **left-side variable** |
 
 ### Example
@@ -43,7 +43,7 @@ And, add `5` to variable `x`.
 ```
 
 | Operator | Description  |
-| ---- | -----------  |
+| :----: | :-----------:  |
 |  -=  | **right-side value** makes subtraction to **left-side variable** and the result re-asigns to **left-side variable** |
 
 ### Example
@@ -68,7 +68,7 @@ And, subtract `5` to variable `y`.
 ```
 
 | Operator | Description  |
-| ---- | -----------  |
+| :----: | :-----------:  |
 |  \*=  | **right-side value** makes multiplication to **left-side variable** and the result re-asigns to **left-side variable** |
 
 ### Example
@@ -93,7 +93,7 @@ And, multiply `4` to variable `y`.
 ```
 
 | Operator | Description  |
-| ---- | -----------  |
+| :----: | :-----------:  |
 |  \/=  | **right-side value** makes division to **left-side variable** and the result re-asigns to **left-side variable** |
 
 ### Example
@@ -118,7 +118,7 @@ And, divide `5` to variable `y`.
 ```
 
 | Operator | Description  |
-| ---- | -----------  |
+| :----: | :-----------:  |
 |  \%=  | **right-side value** makes division to **left-side variable** and get the **remainder** that is re-asigned to **left-side variable** |
 
 ### Example
