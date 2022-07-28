@@ -1,8 +1,9 @@
 # Switch
 
-**Switch** uses *param* to compare strict equality(===) with each *case*.  
-If matches one of these *case*, **executes** inside *case*.  
-If there is no matches, **executes** *default* case.
+**Switch** uses *`param`* to compare strict equality(===) with each *`case`*.  
+If matches one of these *`case`*, **executes** inside *`case`*.  
+If there is no matches, **executes** *`default`* case.  
+You can also see the *`break;`* on each case which stop(finish) the case.
 
 Example:
 ```javascript
